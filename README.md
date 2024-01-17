@@ -1,4 +1,14 @@
-### Hi there 👋
+Product Designer & Front end Enthusiast based in Brazil.
+I solve complex problems by crafting and creating digital products and web experiences that are intuitive and user-centered.
+
+Find me on the web:
+Website
+Quick links
+
+Link with me on:
+LinkedIn
+Dribbble
+Behance
 
 <!--
 **ivancarlosx/ivancarlosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
